@@ -11,7 +11,7 @@ body {
     background: #303036;
     color: #d3d3d3;
     height: auto;
-    
+
 }
 /*#xxx1{
     border:1px solid black;
@@ -27,7 +27,7 @@ body {
 
 .footer .footer-content {
     border: 1px solid red;
-    height: 300px;
+    height: auto;
     display: flex;
     text-align: left;
     padding-left: 1px;
@@ -104,7 +104,7 @@ color: white;
     border: none;
 }
 
-.footer .footer-bottom {
+/*.footer .footer-bottom {
     background: #343a40;
     color: #686868;
     height: 10px;
@@ -114,21 +114,7 @@ color: white;
     bottom: 0px;
     left: 0px;
     padding-top: 10px;
-}
+}*/
 ol a {
     color: white;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
